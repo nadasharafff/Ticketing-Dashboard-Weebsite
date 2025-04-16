@@ -1,0 +1,18 @@
+[
+    {
+        "label" : "Waiting",
+        "value" : 150
+    },
+    {
+        "label" : "In Progress",
+        "value" : 200
+    },
+    {
+        "label" : "Delayed SLA",
+        "value" : 50
+    },
+    {
+        "label" : "Completed",
+        "value" : 100
+    }
+]
